@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  color:whitesmoke;
+  background-color: #8758ff;
+}
